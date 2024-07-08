@@ -2,7 +2,7 @@
 
 A list of guides and tutorials that I have followed for Microsoft Power Apps.
 
-## Inventory Management System
+## Movie Collector
 
 [Watch the tutorial on YouTube](https://www.youtube.com/watch?v=-En6Q3i08Wc&t=2s)
 
