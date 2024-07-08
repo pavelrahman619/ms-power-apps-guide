@@ -10,3 +10,4 @@ A list of guides and tutorials that I have followed for Microsoft Power Apps.
 - Creating a project from an Excel data table
 - Auto width of rows
 - Navigating between pages
+- Creating charts in a dashboard screen and connecting current database
